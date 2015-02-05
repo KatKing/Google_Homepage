@@ -23,7 +23,7 @@ Practice Project 1
 		<li><a href="https://www.google.com/imghp?hl=en&tab=wi&ei=y_XSVKTAEoudyAS9-ICAAw&ved=0CAQQqi4oAg">
 		Images</a></li>
 		<li id="9pix"></li>
-		<li> Sign In</li>
+		<li><a href="https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.com/%3Fgws_rd%3Dssl:">Sign In</a></li>
 	</ul>
 </header>
 </div>
